@@ -1,0 +1,5 @@
+{
+  "name": "Diagnóstico 4D",
+  "description": "A web application that provides a 4D diagnosis to identify a user's primary blocking point (mental, emotional, financial, or practical) and offers a personalized 7-day challenge to help them overcome it.",
+  "requestFramePermissions": []
+}
